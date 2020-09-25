@@ -19,24 +19,31 @@
 </head>
 <body>
 
-<script src="https://www.gstatic.com/firebasejs/7.20.0/firebase-app.js"></script>
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-app.js"></script>
 
-<!-- Firebase Configuration -->
+<!-- Auth -->
+<script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-auth.js"></script>
+
+<!-- Firestore -->
+<script src="https://www.gstatic.com/firebasejs/7.21.0/firebase-firestore.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
 <script>
-      var firebaseConfig = {
-        apiKey: "AIzaSyAzFFd6U_a53iRU3h73-noPBN4PUz9OC6g",
-        authDomain: "e-commerce-flutter.firebaseapp.com",
-        databaseURL: "https://e-commerce-flutter.firebaseio.com",
-        projectId: "e-commerce-flutter-d8277",
-        storageBucket: "e-commerce-flutter.appspot.com",
-        messagingSenderId: "...",
-        appId: "1:...:web:...",
-        measurementId: "G-...",
-      };
-
-      // Initialize Firebase
-      firebase.initializeApp(firebaseConfig);
-
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyC8J72gqgKiyqk8f6tTcyaN7Q5Vjx26pGk",
+    authDomain: "e-commerce-flutter-d8277.firebaseapp.com",
+    databaseURL: "https://e-commerce-flutter-d8277.firebaseio.com",
+    projectId: "e-commerce-flutter-d8277",
+    storageBucket: "e-commerce-flutter-d8277.appspot.com",
+    messagingSenderId: "125719791038",
+    appId: "1:125719791038:web:5ce992272aded7acf825ef"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
 </script>
 
 <script src="main.dart.js" type="application/javascript"></script>

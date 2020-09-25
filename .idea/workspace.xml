@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7ea975f-2a59-495f-9f71-77f1b2476c97" name="Default Changelist" comment="" />
+    <list default="true" id="e7ea975f-2a59-495f-9f71-77f1b2476c97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="Z:\Package\Flutter Src\flutter_e_commerce\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1htGH211Ux9KDJ4ALcyT7qaspzW" />
   <component name="ProjectViewState">
@@ -14,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -38,25 +56,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1600825669873">
+    <state width="1877" height="249" key="GridCell.Tab.0.bottom" timestamp="1601000663119">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1600825669873" />
-    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1600825669873">
+    <state width="1877" height="249" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1601000663119" />
+    <state width="1877" height="249" key="GridCell.Tab.0.center" timestamp="1601000663118">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1600825669873" />
-    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1600825669872">
+    <state width="1877" height="249" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1601000663118" />
+    <state width="1877" height="249" key="GridCell.Tab.0.left" timestamp="1601000663118">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1600825669872" />
-    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1600825669873">
+    <state width="1877" height="249" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1601000663118" />
+    <state width="1877" height="249" key="GridCell.Tab.0.right" timestamp="1601000663119">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1600825669873" />
-    <state width="501" height="68" key="javadoc.popup.new" timestamp="1600823230295">
+    <state width="1877" height="249" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1601000663119" />
+    <state width="501" height="68" key="javadoc.popup.new" timestamp="1600911811593">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="501" height="68" key="javadoc.popup.new/0.34.1920.1046@0.34.1920.1046" timestamp="1600823230295" />
+    <state width="501" height="68" key="javadoc.popup.new/0.34.1920.1046@0.34.1920.1046" timestamp="1600911811593" />
+    <state x="623" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1600879551749">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="623" y="260" width="672" height="678" key="search.everywhere.popup/0.34.1920.1046@0.34.1920.1046" timestamp="1600879551749" />
   </component>
 </project>
